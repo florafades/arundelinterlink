@@ -131,7 +131,7 @@ body::before {
     content: '';
     position: fixed;
     inset: 0;
-    background-image: url('/public/bg/gryl054.jpg');
+    background-image: url('./public/bg/gryl054.jpg');
     background-repeat: repeat;
     opacity: 0.8;
     z-index: 0;
@@ -207,7 +207,7 @@ span {
 
 /* Content Sectioning */
 
-main {}
+/* main {}
 
 header {}
 
@@ -215,7 +215,7 @@ footer {}
 
 nav {}
 
-section {}
+section {} */
 
 address {
     font-style: normal;
