@@ -53,8 +53,9 @@ section {
   padding-bottom: 0.7rem;
 }
 
-.intro-header .logo {
+.intro-header .logo-img {
   flex-shrink: 0;
+  
 }
 
 .intro-text {
@@ -132,8 +133,10 @@ section {
     font-size: 0.8rem;
 }
 
-.logo {
+.logo-img {
     height: auto;
+    width: 120px;
+    border-radius: 0;
 }
 
 /* media queries mobile v desktop */
